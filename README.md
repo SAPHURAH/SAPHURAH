@@ -39,7 +39,7 @@
 ### 🌐 Let’s Connect
 
 <p>
-  <a href="https://www.linkedin.com/in/https:/www.linkedin.com/feed/" target="_blank">
+  <a href="https://www.linkedin.com/in/safuratu-zakaria-4300b5276/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
   </a>
   <a href="mailto:safuratuzakaria233@gmail.com">
