@@ -1,53 +1,72 @@
-<h1 align="center">✨ Hey there, I’m Saphurah 👋🏽</h1>
+<h1 align="center">Hi, I'm Safuratu Zakaria 👋🏽</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=480&lines=Tech+Enthusiast+%F0%9F%92%BB;Data+Science+Learner+%F0%9F%93%88;AI+%26+Design+Explorer+%F0%9F%8C%9F;Welcome+to+my+GitHub!" alt="Typing SVG" />
+Aspiring AI Researcher | Machine Learning | Computer Vision | Generative AI
 </p>
 
 ---
 
-### 👩🏽‍💻 About Me
-- 💡 Passionate about technology, creativity, and continuous learning  
-- 🧠 Interested in **data science**, **machine learning**, and **user-centered design**  
-- 🌱 Always exploring new tools, open-source projects, and ways to grow  
-- 💬 I enjoy solving problems, experimenting, and learning through practice  
+## About Me
+
+I'm passionate about building intelligent systems that solve real-world problems. My interests lie at the intersection of Artificial Intelligence, Computer Vision, and Healthcare, with a growing focus on Generative AI and human-centered technologies.
+
+I enjoy exploring how AI can be applied to improve decision-making, enhance accessibility, and create meaningful impact across different domains.
 
 ---
 
-### 🛠 Tech & Tools
+## Current Focus
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-</p>
+- Clinical Gait Analysis using Machine Learning and Computer Vision
+- Generative AI Applications and Large Language Models
+- AI Research and Portfolio Development
+- Preparing for Graduate Studies in Artificial Intelligence
 
 ---
 
-### 📊 GitHub Highlights
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SAPHURAH&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SAPHURAH&theme=tokyonight" alt="Streak Stats" />
-</p>
+## Research Interests
+
+- Human Motion and Gait Analysis
+- Healthcare AI
+- Computer Vision
+- Deep Learning
+- Explainable AI (XAI)
+- Large Language Models (LLMs)
+- Intelligent Decision Support Systems
 
 ---
 
-### 🌐 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/safuratu-zakaria-4300b5276/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
-  </a>&nbsp;
-  <a href="mailto:safuratuzakaria233@gmail.com">
-    <img src="https://img.shields.io/badge/Email-safuratuzakaria233@gmail.com-red?style=flat&logo=gmail" />
-  </a>
-</p>
+## Tech Stack
+
+### Programming & Data Science
+- Python
+- Pandas
+- NumPy
+- Scikit-Learn
+- Jupyter Notebook
+
+### AI & Machine Learning
+- Machine Learning
+- Data Analysis
+- Computer Vision
+- Generative AI
+
+### Tools
+- Git
+- GitHub
+- Figma
+
+---
+
+## Connect With Me
+
+🔗 LinkedIn  
+www.linkedin.com/in/safuratu-zakaria-4300b5276
+
+📧 Email  
+safuratuzakaria233@gmail.com
 
 ---
 
 <p align="center">
-  🌱 “Keep learning. Keep building. Keep shining.” ✨  
+"Using AI and data-driven solutions to create meaningful impact in healthcare and beyond."
 </p>
