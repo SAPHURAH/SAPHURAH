@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Safuratu Zakaria 👋🏽</h1>
 
 <p align="center">
-Aspiring AI Researcher | Machine Learning | Computer Vision | Generative AI
+ AI Researcher | Machine Learning | Computer Vision | Generative AI
 </p>
 
 ---
