@@ -18,8 +18,7 @@ I enjoy exploring how AI can be applied to improve decision-making, enhance acce
 
 - Clinical Gait Analysis using Machine Learning and Computer Vision
 - Generative AI Applications and Large Language Models
-- AI Research and Portfolio Development
-- Preparing for Graduate Studies in Artificial Intelligence
+
 
 ---
 
