@@ -64,8 +64,3 @@ www.linkedin.com/in/safuratu-zakaria-4300b5276
 📧 Email  
 safuratuzakaria233@gmail.com
 
----
-
-<p align="center">
-"Using AI and data-driven solutions to create meaningful impact in healthcare and beyond."
-</p>
